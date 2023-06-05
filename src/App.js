@@ -14,7 +14,7 @@ const App = () => {
       <ThemeProvider>
         <NormalizeCSS />
         <MainCSS />
-        <Router>
+        <Router basename="/portfolio">
           <Switch>
             {routes.map((route, key) => (
               <MultiRouter key={key} {...route} />
