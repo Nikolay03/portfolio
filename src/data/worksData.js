@@ -1,7 +1,7 @@
 import rhythmCover from 'images/workCover.jpg'
 import agromirCover from 'images/agromirCover.jpg'
-import lpCover from 'images/lpCover.jpg'
 import golfCover from 'images/golfCover.png'
+import etpCover from 'images/etpCover.png'
 import viralaxCover from 'images/viralaxCover.png'
 import centilCover from 'images/centilCover.jpg'
 
@@ -23,6 +23,12 @@ import viralax from 'images/viralax/image.png'
 import viralax_1 from 'images/viralax/image_1.png'
 import viralax_2 from 'images/viralax/image_2.png'
 import viralax_3 from 'images/viralax/image_3.png'
+
+import etp from 'images/etp/image.png'
+import etp_1 from 'images/etp/image_1.png'
+import etp_2 from 'images/etp/image_2.png'
+import etp_3 from 'images/etp/image_3.png'
+import etp_4 from 'images/etp/image_4.png'
 
 import golf from 'images/golf/image.png'
 import golf_1 from 'images/golf/image_1.png'
@@ -48,6 +54,30 @@ export default [
       },
       {
         image: viralax_3
+      }
+    ]
+  },
+  {
+    title: 'Uzbekistan Electronic Trading Platform',
+    subtitle: 'NextJS',
+    img: etpCover,
+    withDetail: true,
+    id: 1,
+    images: [
+      {
+        image: etp
+      },
+      {
+        image: etp_1
+      },
+      {
+        image: etp_2
+      },
+      {
+        image: etp_3
+      },
+      {
+        image: etp_4
       }
     ]
   },
