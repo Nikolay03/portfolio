@@ -1,0 +1,30 @@
+{
+  "short_name": "Portfolio",
+  "name": "Portfolio",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "dir": "ltr",
+  "lang": "ru-RU",
+  "orientation": "portrait",
+  "author": "Nikolay Djuraev",
+  "email": "dzuraevnikolaj49@gmail.com"
+}
