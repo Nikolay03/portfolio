@@ -1,6 +1,6 @@
 ## Web-developer portfolio
 
-Author: [Rouslan Mingazov](https://github.com/rousiq).
+Author: [Nikolay Djuraev](https://github.com/Nikolay03).
 
 ## Available Scripts
 
